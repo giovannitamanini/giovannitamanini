@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @giovannitamanini
-- 👀 I’m interested in backend development
 - 🌱 I’m currently learning Java, Python and C++
 - 📫 How to reach me: giovanni.tnini@gmail.com
 
