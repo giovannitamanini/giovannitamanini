@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @giovannitamanini
-- 🌱 I’m currently learning Python and SQL
+- 🌱 I’m currently learning Python, Java and SQL
 - 📫 How to reach me: giovanni.tnini@gmail.com
 
 <!---
