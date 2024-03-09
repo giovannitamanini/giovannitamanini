@@ -3,7 +3,7 @@
 ## About me 🔍
 
 Hello, I'm Giovanni!
-I'm currently seeking a position in the technology sector (internship or junior) as a backend developer. I am constantly striving to enhance my hard/soft skills through courses and training on various platforms and in the course of Systems Analysis and Development at UniSENAI-SC. Currently, I am in the 4th period of graduation and expected to graduate by the end of 2024.
+My current focus is on securing a position in the technology sector, preferably as an intern or junior backend developer. I am dedicated to continuous improvement, constantly honing my hard and soft skills through courses and training across various platforms. Currently, I am pursuing a degree in Systems Analysis and Development at UniSENAI-SC, and I’m currently in the 4th period of my studies. My anticipated graduation date is by the end of 2024.
 
 ## Skills 🚀
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
