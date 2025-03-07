@@ -30,10 +30,6 @@ Note: Skills/tools used in the last project are highlighted.
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=giovannitamanini&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-### Last developed project 💻
-
-- [Pousada Back-End](https://github.com/giovannitamanini/pousada) - A Java Spring Boot backend project to manage a hostel, using MySQL. Tests were conducted with Insomnia. Subsequently, the application was containerized with Docker for easier portability. The API was documented with Swagger for better understanding of the endpoints.
-
 ## Contact ✉️
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovannitamanini/)
