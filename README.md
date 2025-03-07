@@ -3,17 +3,18 @@
 ## About me 🔍
 
 Hello, I'm Giovanni!
-My current focus is on securing a position in the technology sector, preferably as an intern or junior backend developer. I am dedicated to continuous improvement, constantly honing my hard and soft skills through courses and training across various platforms. Currently, I am pursuing a degree in Systems Analysis and Development at UniSENAI-SC, and I’m currently in the 4th period of my studies. My anticipated graduation date is by the end of 2024.
+My goal is to always learn more and grow in my career. I am dedicated to continuous improvement, constantly honing my hard and soft skills through courses and training across various platforms. I hold a degree in Systems Analysis and Development from UniSENAI-SC and currently work as an IT Assistant at Urbano Têxtil.
 
-## Skills 🚀
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![DOCKER](https://img.shields.io/badge/Docker-1572B6?style=for-the-badge&logo=docker&logoColor=white)
+## Skills 🚀  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)  
+![DOCKER](https://img.shields.io/badge/Docker-1572B6?style=for-the-badge&logo=docker&logoColor=white)  
 
 - Operating Systems: Windows, Linux (Debian derivatives)
-- Programming Languages: **Java**, Python, JavaScript, C++
-- Relational Databases: **MySQL**, PostgreSQL, MariaDB, SQLite 
+- Programming Languages: **Python**, **Java**, **PL/SQL**, JavaScript, C++, TypeScript
+- Relational Databases: **Oracle**, **MySQL**, PostgreSQL, MariaDB, SQLite 
 - Cloud: AWS
 - Markup Language: HTML
 - Styling Language: CSS
